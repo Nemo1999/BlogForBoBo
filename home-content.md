@@ -2,6 +2,7 @@
 layout: protected
 title: "翻譯與整理高手 - 小波"
 subtitle: "專業的中英對照翻譯與內容整理服務"
+permalink: /home-content.html
 ---
 
 # 👁️ 你好，我是小波
