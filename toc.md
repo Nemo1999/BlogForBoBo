@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "《整體性與隱含秩序》目錄"
-permalink: /toc/
+permalink: /BlogForBoBo/toc/
 ---
 
 # 📖 大衛·玻姆《整體性與隱含秩序》目錄

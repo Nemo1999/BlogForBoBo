@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "連結測試頁面"
-permalink: /test-links/
+permalink: /BlogForBoBo/test-links/
 ---
 
 # 🔗 連結測試頁面
