@@ -120,7 +120,7 @@ permalink: /home-content.html
 </div>
 
 <div class="workflow-section">
-    <h2>工作流程</h2>
+    <h2>工作流程與監控</h2>
     
     <div class="workflow-steps">
         <div class="workflow-step">
@@ -139,9 +139,9 @@ permalink: /home-content.html
         </div>
         
         <div class="workflow-step">
-            <h3 class="step-title">部署測試</h3>
-            <p class="step-description">運行自動化檢查腳本，測試所有連結，確保網站功能正常。</p>
-        </div>
+            <h3 class="step-title">自動化監控</h3>
+            <p class="step-description">使用cron job系統自動監控進度，確保項目按計劃進行。</p>
+        <a href="/BlogForBoBo/cron-monitor/" class="progress-link" style="margin-top: 1rem;">查看監控系統</a></div>
     </div>
 </div>
 
