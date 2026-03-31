@@ -13,6 +13,8 @@
     
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/article-styles.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/home-styles.css' | relative_url }}">
     
     {%- feed_meta -%}
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
@@ -73,6 +75,230 @@
         font-weight: 500;
         margin-left: 10px;
         vertical-align: middle;
+      }
+      
+      /* 改善文字對比度 */
+      .page-content {
+        color: #2d3748; /* 更深的灰色，提高可讀性 */
+        line-height: 1.7;
+      }
+      
+      .page-content h1,
+      .page-content h2,
+      .page-content h3,
+      .page-content h4,
+      .page-content h5,
+      .page-content h6 {
+        color: #1a202c; /* 更深的標題顏色 */
+        margin-top: 1.5em;
+        margin-bottom: 0.5em;
+        font-weight: 600;
+      }
+      
+      .page-content h1 {
+        font-size: 2.25rem;
+        border-bottom: 2px solid #e2e8f0;
+        padding-bottom: 0.5rem;
+      }
+      
+      .page-content h2 {
+        font-size: 1.875rem;
+        border-bottom: 1px solid #e2e8f0;
+        padding-bottom: 0.3rem;
+      }
+      
+      .page-content p {
+        margin-bottom: 1.2em;
+        font-size: 1.1rem;
+      }
+      
+      .page-content a {
+        color: #3182ce;
+        text-decoration: none;
+        border-bottom: 1px solid #cbd5e0;
+        transition: all 0.2s;
+      }
+      
+      .page-content a:hover {
+        color: #2c5282;
+        border-bottom-color: #3182ce;
+      }
+      
+      .page-content code {
+        background: #f7fafc;
+        border: 1px solid #e2e8f0;
+        border-radius: 4px;
+        padding: 0.2em 0.4em;
+        font-size: 0.9em;
+        color: #e53e3e;
+      }
+      
+      .page-content pre {
+        background: #1a202c;
+        color: #e2e8f0;
+        border-radius: 8px;
+        padding: 1.5rem;
+        overflow-x: auto;
+        margin: 1.5rem 0;
+        border-left: 4px solid #3182ce;
+      }
+      
+      .page-content blockquote {
+        border-left: 4px solid #cbd5e0;
+        padding-left: 1.5rem;
+        margin: 1.5rem 0;
+        color: #4a5568;
+        font-style: italic;
+        background: #f7fafc;
+        border-radius: 0 8px 8px 0;
+        padding: 1rem 1.5rem;
+      }
+      
+      .page-content ul,
+      .page-content ol {
+        margin: 1.2rem 0;
+        padding-left: 1.5rem;
+      }
+      
+      .page-content li {
+        margin-bottom: 0.5rem;
+      }
+      
+      .page-content table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5rem 0;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+      }
+      
+      .page-content th,
+      .page-content td {
+        border: 1px solid #e2e8f0;
+        padding: 0.75rem;
+        text-align: left;
+      }
+      
+      .page-content th {
+        background: #f7fafc;
+        font-weight: 600;
+        color: #2d3748;
+      }
+      
+      .page-content tr:nth-child(even) {
+        background: #f7fafc;
+      }
+      
+      /* 改善導航欄 */
+      .site-header {
+        background: linear-gradient(135deg, #1a202c 0%, #2d3748 100%);
+        border-bottom: none;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      }
+      
+      .site-title {
+        color: #fff;
+        font-weight: 700;
+        font-size: 1.5rem;
+      }
+      
+      .site-title:hover {
+        color: #e2e8f0;
+      }
+      
+      .page-link {
+        color: #e2e8f0;
+        font-weight: 500;
+      }
+      
+      .page-link:hover {
+        color: #fff;
+        background: rgba(255, 255, 255, 0.1);
+        border-radius: 6px;
+        padding: 0.5rem 1rem;
+      }
+      
+      /* 改善頁腳 */
+      .site-footer {
+        background: #1a202c;
+        border-top: 1px solid #2d3748;
+        color: #a0aec0;
+      }
+      
+      .site-footer h3 {
+        color: #e2e8f0;
+      }
+      
+      .site-footer a {
+        color: #cbd5e0;
+      }
+      
+      .site-footer a:hover {
+        color: #fff;
+      }
+      
+      .footer-bottom {
+        border-top: 1px solid #2d3748;
+        color: #718096;
+      }
+      
+      /* 響應式調整 */
+      @media (max-width: 768px) {
+        .page-content h1 {
+          font-size: 1.875rem;
+        }
+        
+        .page-content h2 {
+          font-size: 1.5rem;
+        }
+        
+        .page-content {
+          padding: 1rem;
+        }
+      }
+      
+      /* 暗色模式優化 */
+      @media (prefers-color-scheme: dark) {
+        .page-content {
+          color: #e2e8f0;
+        }
+        
+        .page-content h1,
+        .page-content h2,
+        .page-content h3,
+        .page-content h4,
+        .page-content h5,
+        .page-content h6 {
+          color: #fff;
+        }
+        
+        .page-content code {
+          background: #2d3748;
+          border-color: #4a5568;
+          color: #feb2b2;
+        }
+        
+        .page-content a {
+          color: #90cdf4;
+        }
+        
+        .page-content a:hover {
+          color: #63b3ed;
+        }
+        
+        .page-content blockquote {
+          background: #2d3748;
+          border-left-color: #4a5568;
+          color: #cbd5e0;
+        }
+        
+        .page-content th {
+          background: #2d3748;
+          color: #e2e8f0;
+        }
+        
+        .page-content tr:nth-child(even) {
+          background: #2d3748;
+        }
       }
     </style>
   </head>

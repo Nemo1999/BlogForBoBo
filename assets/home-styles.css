@@ -1,0 +1,388 @@
+/* 首頁專用樣式 */
+
+/* 英雄區域 */
+.hero-section {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+    border-radius: 16px;
+    margin-bottom: 3rem;
+    border: 1px solid #e2e8f0;
+}
+
+.hero-title {
+    font-size: 3rem;
+    font-weight: 800;
+    color: #2d3748;
+    margin-bottom: 1rem;
+    line-height: 1.2;
+}
+
+.hero-subtitle {
+    font-size: 1.5rem;
+    color: #718096;
+    margin-bottom: 2rem;
+    font-weight: 400;
+}
+
+.hero-description {
+    font-size: 1.2rem;
+    color: #4a5568;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.7;
+}
+
+/* 服務卡片 */
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+}
+
+.service-card {
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 2rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.service-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    border-color: #3182ce;
+}
+
+.service-icon {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    display: inline-block;
+}
+
+.service-title {
+    font-size: 1.5rem;
+    color: #2d3748;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.service-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.service-list li {
+    padding: 0.5rem 0;
+    color: #4a5568;
+    position: relative;
+    padding-left: 1.5rem;
+}
+
+.service-list li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: #38a169;
+    font-weight: bold;
+}
+
+/* 項目進度 */
+.project-section {
+    background: #f8fafc;
+    border-radius: 16px;
+    padding: 2.5rem;
+    margin: 3rem 0;
+    border: 1px solid #e2e8f0;
+}
+
+.project-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.project-icon {
+    font-size: 2rem;
+}
+
+.project-title {
+    font-size: 1.75rem;
+    color: #2d3748;
+    font-weight: 600;
+}
+
+.project-description {
+    color: #4a5568;
+    margin-bottom: 2rem;
+    line-height: 1.7;
+}
+
+.progress-items {
+    display: grid;
+    gap: 1.5rem;
+}
+
+.progress-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+}
+
+.progress-status {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.status-completed {
+    background: #38a169;
+    color: white;
+}
+
+.status-in-progress {
+    background: #3182ce;
+    color: white;
+    animation: pulse 2s infinite;
+}
+
+.status-planned {
+    background: #718096;
+    color: white;
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+.progress-info {
+    flex: 1;
+}
+
+.progress-name {
+    font-weight: 500;
+    color: #2d3748;
+    margin-bottom: 0.25rem;
+}
+
+.progress-details {
+    font-size: 0.9rem;
+    color: #718096;
+}
+
+.progress-link {
+    color: #3182ce;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border: 1px solid #3182ce;
+    border-radius: 6px;
+    transition: all 0.2s;
+}
+
+.progress-link:hover {
+    background: #3182ce;
+    color: white;
+}
+
+/* 工作流程 */
+.workflow-section {
+    margin: 3rem 0;
+}
+
+.workflow-steps {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    counter-reset: step;
+}
+
+.workflow-step {
+    position: relative;
+    padding: 2rem;
+    background: white;
+    border-radius: 12px;
+    border: 1px solid #e2e8f0;
+}
+
+.workflow-step::before {
+    counter-increment: step;
+    content: counter(step);
+    position: absolute;
+    top: -1rem;
+    left: -1rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    background: #3182ce;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.step-title {
+    font-size: 1.25rem;
+    color: #2d3748;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.step-description {
+    color: #4a5568;
+    line-height: 1.6;
+}
+
+/* 聯繫區域 */
+.contact-section {
+    text-align: center;
+    padding: 3rem 2rem;
+    background: linear-gradient(135deg, #1a202c 0%, #2d3748 100%);
+    border-radius: 16px;
+    color: white;
+    margin-top: 3rem;
+}
+
+.contact-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.contact-description {
+    color: #cbd5e0;
+    max-width: 600px;
+    margin: 0 auto 2rem;
+    line-height: 1.7;
+}
+
+.contact-button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background: white;
+    color: #2d3748;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+.contact-button:hover {
+    background: #3182ce;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(49, 130, 206, 0.3);
+}
+
+/* 響應式調整 */
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 2.25rem;
+    }
+    
+    .hero-subtitle {
+        font-size: 1.25rem;
+    }
+    
+    .services-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .project-section {
+        padding: 1.5rem;
+    }
+    
+    .workflow-steps {
+        grid-template-columns: 1fr;
+    }
+    
+    .workflow-step::before {
+        top: -1.5rem;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+
+/* 暗色模式支持 */
+@media (prefers-color-scheme: dark) {
+    .hero-section {
+        background: linear-gradient(135deg, #2d3748 0%, #1a202c 100%);
+        border-color: #4a5568;
+    }
+    
+    .hero-title {
+        color: #fff;
+    }
+    
+    .hero-subtitle {
+        color: #cbd5e0;
+    }
+    
+    .hero-description {
+        color: #a0aec0;
+    }
+    
+    .service-card {
+        background: #2d3748;
+        border-color: #4a5568;
+    }
+    
+    .service-title {
+        color: #fff;
+    }
+    
+    .service-list li {
+        color: #cbd5e0;
+    }
+    
+    .project-section {
+        background: #2d3748;
+        border-color: #4a5568;
+    }
+    
+    .project-title {
+        color: #fff;
+    }
+    
+    .project-description {
+        color: #a0aec0;
+    }
+    
+    .progress-item {
+        background: #1a202c;
+        border-color: #4a5568;
+    }
+    
+    .progress-name {
+        color: #fff;
+    }
+    
+    .workflow-step {
+        background: #2d3748;
+        border-color: #4a5568;
+    }
+    
+    .step-title {
+        color: #fff;
+    }
+    
+    .step-description {
+        color: #a0aec0;
+    }
+}
