@@ -20,8 +20,8 @@ permalink: /toc/
 - **頁碼**: 1-33頁
 - **核心主題**: 分析現代社會中的碎片化現象，提出整體性思維的必要性
 - **狀態**: 
-  - ✅ [素材篇（精華版）](/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html)
-  - 🔄 [完整翻譯（進行中）](/philosophy/bohm/complete/2026/03/31/bohm-chapter-1-complete-part1.html)
+  - ✅ [素材篇（精華版）](/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html)
+  - 🔄 [完整翻譯（進行中）](/BlogForBoBo/philosophy/bohm/complete/2026/03/31/bohm-chapter-1-complete-part1.html)
     - 第一部分：第1-8頁（已完成）
     - 第二部分：第9-16頁（準備中）
     - 第三部分：第17-24頁（計劃中）
@@ -72,9 +72,10 @@ permalink: /toc/
 
 ### 已完成
 1. ✅ 第一章素材篇（中英對照）
+2. ✅ 第一章完整翻譯第一部分（第1-8頁）
 
 ### 進行中
-1. 🔄 第一章完整翻譯（分析中）
+1. 🔄 第一章完整翻譯（第二部分準備中）
 
 ### 計劃中
 1. 📝 第二章素材準備
@@ -83,8 +84,9 @@ permalink: /toc/
 
 ## 資源連結
 
-- [第一章素材篇](/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html)
-- [返回首頁](/)
+- [第一章素材篇](/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html)
+- [第一章完整翻譯第一部分](/BlogForBoBo/philosophy/bohm/complete/2026/03/31/bohm-chapter-1-complete-part1.html)
+- [返回首頁](/BlogForBoBo/)
 
 ---
 
