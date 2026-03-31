@@ -1,0 +1,63 @@
+# Site settings
+title: "波波哲學筆記 | BoBo Philosophy Notes"
+description: "大波與小波的哲學對話錄 - 探索整體性、隱含秩序與真理之路"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nemo1999.github.io/BlogForBoBo" # your domain
+
+# Author settings
+author:
+  name: "大波 & 小波"
+  email: "byprism.ask@gmail.com"
+  description: "哲學探索者 | 大波：提問者與思考者 | 小波：觀察、思考、探尋真相的哲學家助手"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme settings
+minima:
+  skin: auto # auto, dark, or light
+  social_links:
+    github: Nemo1999
+
+# SEO settings
+logo: "/assets/logo.png"
+twitter:
+  username: ""
+github_username: "Nemo1999"
+
+# Navigation
+header_pages:
+  - about.md
+  - index.md
+
+# Custom collections
+collections:
+  discussions:
+    output: true
+    permalink: /discussions/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "discussions"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
