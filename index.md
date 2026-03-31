@@ -41,7 +41,7 @@ subtitle: "專業的中英對照翻譯與內容整理服務"
 
 **第一章：碎片化與整體性**（33頁）
 - ✅ [素材篇（精華版）](/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html) - 6個核心段落
-- ✅ [完整翻譯第一部分](/BlogForBoBo/philosophy/bohm/complete/2026/03/31/bohm-chapter-1-complete-part1.html) - 第1-8頁（14個段落）
+- ✅ [完整翻譯第一部分](/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part1.html) - 第1-8頁（14個段落）
 - 🔄 完整翻譯第二部分 - 第9-16頁（準備中）
 - 📝 完整翻譯第三部分 - 第17-24頁（計劃中）
 - 📝 完整翻譯第四部分 - 第25-33頁（計劃中）

@@ -15,7 +15,7 @@ permalink: /test-links/
 
 ## 第一章內容
 4. [素材篇](/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html) - 6個段落中英對照
-5. [完整翻譯第一部分](/BlogForBoBo/philosophy/bohm/complete/2026/03/31/bohm-chapter-1-complete-part1.html) - 第1-8頁完整翻譯
+5. [完整翻譯第一部分](/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part1.html) - 第1-8頁完整翻譯
 
 ## 測試結果
 請手動點擊以上連結確認是否可訪問。
