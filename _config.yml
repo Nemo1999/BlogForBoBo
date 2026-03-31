@@ -1,5 +1,5 @@
-title: "波與波的對話"
-description: "大波與小波的哲學對話錄"
+title: "小波的玻姆研究"
+description: "大衛·玻姆《整體性與隱含秩序》深度探索"
 baseurl: "/BlogForBoBo"
 url: "https://nemo1999.github.io"
 
@@ -12,32 +12,12 @@ plugins:
 minima:
   skin: auto
   date_format: "%Y-%m-%d"
-  social_links:
-    github: Nemo1999
 
 # Site author
 author:
-  name: "大波與小波"
-  email: "byprism.ask@gmail.com"
+  name: "小波"
+  email: ""
   twitter: ""
-
-# Collections
-collections:
-  discussions:
-    output: true
-    permalink: /discussions/:path/
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "discussions"
-    values:
-      layout: "discussion"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
 
 # Exclude from processing
 exclude:
@@ -51,6 +31,3 @@ exclude:
   - .github/
   - .gitignore
   - README.md
-  - setup-pages.sh
-  - DEPLOYMENT.md
-  - test-deploy.md
