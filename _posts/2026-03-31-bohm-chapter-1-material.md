@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: protected
 title: "玻姆第1章素材篇：碎片化與整體性（中英對照）"
 date: 2026-03-31
 categories: [philosophy, bohm, material]

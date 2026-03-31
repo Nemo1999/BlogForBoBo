@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>已登出 - 玻姆哲學研究</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+            max-width: 500px;
+            width: 100%;
+            text-align: center;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+            color: white;
+            padding: 40px 30px;
+        }
+        
+        .header h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        
+        .header p {
+            opacity: 0.9;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        
+        .content {
+            padding: 40px 30px;
+        }
+        
+        .icon {
+            font-size: 64px;
+            margin-bottom: 20px;
+        }
+        
+        h2 {
+            color: #374151;
+            margin-bottom: 15px;
+            font-size: 22px;
+        }
+        
+        p {
+            color: #6b7280;
+            margin-bottom: 30px;
+            line-height: 1.6;
+        }
+        
+        .buttons {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+        }
+        
+        button {
+            padding: 15px 30px;
+            border: none;
+            border-radius: 12px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+            color: white;
+        }
+        
+        .btn-secondary {
+            background: #f3f4f6;
+            color: #374151;
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+        }
+        
+        .footer {
+            padding: 20px;
+            color: #6b7280;
+            font-size: 14px;
+            border-top: 1px solid #e5e7eb;
+        }
+        
+        @media (max-width: 480px) {
+            .container {
+                border-radius: 15px;
+            }
+            
+            .header, .content {
+                padding: 30px 20px;
+            }
+            
+            .buttons {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>玻姆哲學研究</h1>
+            <p>大衛·玻姆《整體性與隱含秩序》研究資料庫</p>
+        </div>
+        
+        <div class="content">
+            <div class="icon">🔒</div>
+            <h2>已成功登出</h2>
+            <p>您已成功登出玻姆哲學研究資料庫。訪問權限已被撤銷，需要重新輸入密碼才能再次訪問受保護內容。</p>
+            
+            <div class="buttons">
+                <button class="btn-primary" onclick="window.location.href='/BlogForBoBo/password-protect.html'">
+                    重新登入
+                </button>
+                <button class="btn-secondary" onclick="window.location.href='/'">
+                    返回首頁
+                </button>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>© 2026 玻姆哲學研究小組 | 受保護學術內容</p>
+        </div>
+    </div>
+    
+    <script>
+        // 清除訪問cookie
+        document.cookie = 'bohm_access=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
+        
+        // 防止返回按鈕回到受保護頁面
+        if (window.history.replaceState) {
+            window.history.replaceState(null, null, window.location.href);
+        }
+    </script>
+</body>
+</html>

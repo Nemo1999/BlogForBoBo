@@ -1,0 +1,26 @@
+<!-- 訪問權限檢查 -->
+<script>
+(function() {
+    // 檢查是否在密碼保護頁面
+    if (window.location.pathname.includes('password-protect')) {
+        return;
+    }
+    
+    // 檢查訪問cookie
+    function hasAccess() {
+        const cookies = document.cookie.split(';');
+        for (let cookie of cookies) {
+            if (cookie.trim().startsWith('bohm_access=')) {
+                const value = cookie.trim().substring('bohm_access='.length);
+                return value === 'true';
+            }
+        }
+        return false;
+    }
+    
+    // 如果沒有訪問權限，重定向到密碼保護頁面
+    if (!hasAccess()) {
+        window.location.href = '/BlogForBoBo/password-protect.html';
+    }
+})();
+</script>

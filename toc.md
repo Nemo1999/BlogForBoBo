@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: protected
 title: "《整體性與隱含秩序》目錄"
 permalink: /BlogForBoBo/toc/
 ---

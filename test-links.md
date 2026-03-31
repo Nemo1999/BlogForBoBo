@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: protected
 title: "連結測試頁面"
 permalink: /BlogForBoBo/test-links/
 ---
@@ -29,7 +29,7 @@ permalink: /BlogForBoBo/test-links/
 **修復方法**：
 1. 所有連結使用絕對路徑：`/BlogForBoBo/path/to/page`
 2. 確保每個頁面都有正確的 `permalink`
-3. 使用 `layout: page` 或 `layout: post` 適當
+3. 使用 `layout: protected` 或 `layout: post` 適當
 
 ## 預防措施
 1. 未來創建頁面時，總是設置 `permalink`

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: protected
 title: "玻姆第1章完整翻譯：第三部分（第17-24頁）"
 date: 2026-03-31
 categories: [philosophy, bohm, complete, translation]

@@ -42,6 +42,38 @@
       code, pre {
         font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
       }
+      
+      /* 登出按鈕樣式 */
+      .logout-btn {
+        background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+        color: white;
+        border: none;
+        padding: 8px 16px;
+        border-radius: 8px;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.3s;
+        margin-left: 15px;
+        text-decoration: none;
+        display: inline-block;
+      }
+      
+      .logout-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(239, 68, 68, 0.3);
+      }
+      
+      .access-badge {
+        background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+        color: white;
+        padding: 4px 12px;
+        border-radius: 20px;
+        font-size: 12px;
+        font-weight: 500;
+        margin-left: 10px;
+        vertical-align: middle;
+      }
     </style>
   </head>
 
@@ -54,6 +86,7 @@
       <div class="container">
         <a class="site-title" href="{{ "/" | relative_url }}">
           👁️ {{ site.title | escape }}
+          <span class="access-badge">已授權</span>
         </a>
         
         <nav class="site-nav">
@@ -67,15 +100,10 @@
           </label>
 
           <div class="trigger">
-            <a class="page-link" href="{{ "/" | relative_url }}">首頁</a>
-            <a class="page-link" href="{{ "/discussions/" | relative_url }}">所有討論</a>
-            <a class="page-link" href="{{ "/about/" | relative_url }}">關於我們</a>
-            {% for page in site.header_pages %}
-              {% assign my_page = site.pages | where: "path", page | first %}
-              {% if my_page.title %}
-                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-              {% endif %}
-            {% endfor %}
+            <a class="page-link" href="{{ "/home-content.html" | relative_url }}">首頁</a>
+            <a class="page-link" href="{{ "/toc/" | relative_url }}">目錄</a>
+            <a class="page-link" href="{{ "/test-links/" | relative_url }}">連結測試</a>
+            <a class="logout-btn" href="{{ "/logout.html" | relative_url }}">登出</a>
           </div>
         </nav>
       </div>
@@ -94,24 +122,26 @@
           <div class="footer-section">
             <h3>{{ site.title | escape }}</h3>
             <p>{{ site.description | escape }}</p>
+            <p style="font-size: 12px; color: #666; margin-top: 10px;">
+              🔒 受保護內容 | 僅供授權研究使用
+            </p>
           </div>
           
           <div class="footer-section">
             <h3>探索</h3>
             <ul class="footer-links">
-              <li><a href="{{ "/" | relative_url }}">首頁</a></li>
-              <li><a href="{{ "/discussions/" | relative_url }}">所有討論</a></li>
-              <li><a href="{{ "/about/" | relative_url }}">關於我們</a></li>
+              <li><a href="{{ "/home-content.html" | relative_url }}">首頁</a></li>
+              <li><a href="{{ "/toc/" | relative_url }}">目錄</a></li>
+              <li><a href="{{ "/test-links/" | relative_url }}">連結測試</a></li>
             </ul>
           </div>
           
           <div class="footer-section">
-            <h3>聯繫</h3>
+            <h3>安全</h3>
             <ul class="footer-links">
-              <li><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-              {% if site.github_username %}
-                <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
-              {% endif %}
+              <li><a href="{{ "/logout.html" | relative_url }}">登出系統</a></li>
+              <li><a href="{{ "/password-protect.html" | relative_url }}">重新登入</a></li>
+              <li><a href="mailto:{{ site.author.email }}">報告問題</a></li>
             </ul>
           </div>
         </div>
@@ -119,11 +149,12 @@
         <div class="footer-bottom">
           <p>
             &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. 
-            本作品採用 <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> 許可證。
+            本作品包含受版權保護內容，僅供教育和研究目的使用。
           </p>
           <p class="footer-meta">
             最後更新: {{ site.time | date: "%Y年%m月%d日" }} | 
-            由 <a href="https://github.com/Nemo1999/BlogForBoBo">GitHub Pages</a> 代管
+            訪問時間: <span id="current-time"></span> |
+            <a href="{{ "/logout.html" | relative_url }}">安全登出</a>
           </p>
         </div>
       </div>
@@ -268,14 +299,20 @@
           box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
         
-        .page-link {
+        .page-link, .logout-btn {
           display: block;
           margin: 0;
           padding: 0.5rem 0;
           border-bottom: 1px solid #f0f0f0;
+          text-align: left;
         }
         
-        .page-link:last-child {
+        .logout-btn {
+          margin-left: 0;
+          margin-top: 10px;
+        }
+        
+        .page-link:last-child, .logout-btn:last-child {
           border-bottom: none;
         }
         
@@ -334,7 +371,7 @@
           border-color: #30363d;
         }
         
-        .page-link {
+        .page-link, .logout-btn {
           border-bottom-color: #30363d;
         }
         
@@ -343,5 +380,47 @@
         }
       }
     </style>
+    
+    <script>
+      // 顯示當前時間
+      function updateTime() {
+        const now = new Date();
+        const timeString = now.toLocaleString('zh-TW', {
+          year: 'numeric',
+          month: '2-digit',
+          day: '2-digit',
+          hour: '2-digit',
+          minute: '2-digit',
+          second: '2-digit',
+          hour12: false
+        });
+        document.getElementById('current-time').textContent = timeString;
+      }
+      
+      // 每分鐘更新一次時間
+      updateTime();
+      setInterval(updateTime, 60000);
+      
+      // 自動登出計時器（8小時）
+      let logoutTimer;
+      function resetLogoutTimer() {
+        clearTimeout(logoutTimer);
+        logoutTimer = setTimeout(() => {
+          if (confirm('您已經閒置超過8小時，為了安全起見，系統將自動登出。')) {
+            window.location.href = '/BlogForBoBo/logout.html';
+          } else {
+            resetLogoutTimer();
+          }
+        }, 8 * 60 * 60 * 1000); // 8小時
+      }
+      
+      // 重置計時器當用戶有活動時
+      document.addEventListener('mousemove', resetLogoutTimer);
+      document.addEventListener('keypress', resetLogoutTimer);
+      document.addEventListener('click', resetLogoutTimer);
+      
+      // 初始化計時器
+      resetLogoutTimer();
+    </script>
   </body>
 </html>
