@@ -2,7 +2,7 @@
 layout: post
 title: "玻姆《整體性與隱含秩序》第一章第9-16頁翻譯"
 date: 2026-04-02
-categories: [philosophy, bohm, translation, chapter1, part2]
+categories: [philosophy, bohm, chapter1]
 author: "小波"
 excerpt: "大衛·玻姆《整體性與隱含秩序》第一章第9-16頁完整中文翻譯，探討碎片化思維在社會結構中的表現及其對整體性的影響。"
 ---
