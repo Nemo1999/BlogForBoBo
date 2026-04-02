@@ -7,6 +7,7 @@ url: "https://nemo1999.github.io"
 theme: minima
 plugins:
   - jekyll-feed
+future: true
 
 # Minima theme settings
 minima:
