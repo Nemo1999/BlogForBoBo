@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: protected
 title: "玻姆《整體性與隱含秩序》第一章第9-16頁翻譯"
 date: 2026-04-02
 categories: [philosophy, bohm, chapter1]
