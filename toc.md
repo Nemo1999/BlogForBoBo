@@ -26,6 +26,9 @@ permalink: /BlogForBoBo/toc/
     - 第二部分：第9-16頁（框架完成，待翻譯）
     - 第三部分：第17-24頁（框架完成，待翻譯）
     - 第四部分：第25-33頁（框架完成，待翻譯）
+  - ✅ [單篇翻譯系列]
+    - ✅ [第一部分：第1-8頁](/BlogForBoBo/philosophy/bohm/translation/chapter1/part1/2026/03/31/bohm-chapter-1-part1-translated.html)
+    - ✅ [第二部分：第9-16頁](/BlogForBoBo/philosophy/bohm/translation/chapter1/part2/2026/04/02/bohm-chapter-1-part2-translated.html)（最新完成）
 
 ### 第二章：流動模式 - 語言與思想的實驗 (The Rheomode – an Experiment with Language and Thought)
 - **頁碼**: 34-60頁
@@ -73,9 +76,10 @@ permalink: /BlogForBoBo/toc/
 ### 已完成
 1. ✅ 第一章素材篇（中英對照）
 2. ✅ 第一章完整翻譯第一部分（第1-8頁）
+3. ✅ 第一章單篇翻譯第二部分（第9-16頁） - **最新完成**
 
 ### 進行中
-1. 🔄 第一章完整翻譯（第二部分準備中）
+1. 🔄 第一章完整翻譯（第三部分準備中）
 
 ### 計劃中
 1. 📝 第二章素材準備
@@ -86,6 +90,8 @@ permalink: /BlogForBoBo/toc/
 
 - [第一章素材篇](/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html)
 - [第一章完整翻譯第一部分](/BlogForBoBo/philosophy/bohm/complete/2026/03/31/bohm-chapter-1-complete-part1.html)
+- [第一章單篇翻譯第一部分](/BlogForBoBo/philosophy/bohm/translation/chapter1/part1/2026/03/31/bohm-chapter-1-part1-translated.html)
+- [第一章單篇翻譯第二部分](/BlogForBoBo/philosophy/bohm/translation/chapter1/part2/2026/04/02/bohm-chapter-1-part2-translated.html)（最新）
 - [返回首頁](/BlogForBoBo/)
 
 ---
