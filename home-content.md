@@ -173,7 +173,10 @@ permalink: /home-content.html
         🧠 第一章第17-24頁
     </a>
     <a href="/BlogForBoBo/philosophy/bohm/chapter1/2026/04/04/bohm-chapter-1-part4-translated.html" class="nav-button">
-        🎉 第一章第25-33頁（完成！）
+        🎉 第一章第25-33頁
+    </a>
+    <a href="/BlogForBoBo/philosophy/bohm/unpublished/2026/04/04/bohm-ontological-foundation-translated.html" class="nav-button">
+        🔬 未發表文章（新！）
     </a>
 </div>
 

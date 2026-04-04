@@ -27,6 +27,9 @@ permalink: /toc/
 4. **[第三部分：第17-24頁](/BlogForBoBo/philosophy/bohm/chapter1/2026/04/04/bohm-chapter-1-part3-translated.html)** - 個人心理分析（17個段落）
 5. **[第四部分：第25-33頁](/BlogForBoBo/philosophy/bohm/chapter1/2026/04/04/bohm-chapter-1-part4-translated.html)** - 整體性解決方案（15個段落）
 
+#### 🔄 新增：未發表文章翻譯
+6. **[未發表文章《量子理論的本體論基礎》](/BlogForBoBo/philosophy/bohm/unpublished/2026/04/04/bohm-unpublished-article-translated.html)** - 玻姆晚期思想（2025年首次公開）
+
 ---
 
 ## 📚 全書章節結構
