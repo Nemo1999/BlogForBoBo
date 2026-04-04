@@ -1,0 +1,688 @@
+{
+  "internal": [],
+  "external": [],
+  "broken": [],
+  "files": {
+    "toc.md": [
+      {
+        "text": "素材篇（精華版）",
+        "url": "/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html",
+        "type": "markdown",
+        "line": 23
+      },
+      {
+        "text": "完整翻譯（進行中）",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part1.html",
+        "type": "markdown",
+        "line": 24
+      },
+      {
+        "text": "第一部分：第1-8頁",
+        "url": "/BlogForBoBo/philosophy/bohm/translation/chapter1/part1/2026/03/31/bohm-chapter-1-part1-translated.html",
+        "type": "markdown",
+        "line": 25
+      },
+      {
+        "text": "第二部分：第9-16頁",
+        "url": "/BlogForBoBo/philosophy/bohm/translation/chapter1/part2/2026/04/02/bohm-chapter-1-part2-translated.html",
+        "type": "markdown",
+        "line": 26
+      },
+      {
+        "text": "第一章素材篇",
+        "url": "/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html",
+        "type": "markdown",
+        "line": 77
+      },
+      {
+        "text": "第一章完整翻譯第一部分",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/2026/03/31/bohm-chapter-1-complete-part1.html",
+        "type": "markdown",
+        "line": 78
+      },
+      {
+        "text": "第一章單篇翻譯第一部分",
+        "url": "/BlogForBoBo/philosophy/bohm/translation/chapter1/part1/2026/03/31/bohm-chapter-1-part1-translated.html",
+        "type": "markdown",
+        "line": 93
+      },
+      {
+        "text": "第一章單篇翻譯第二部分",
+        "url": "/BlogForBoBo/philosophy/bohm/translation/chapter1/part2/2026/04/02/bohm-chapter-1-part2-translated.html",
+        "type": "markdown",
+        "line": 79
+      },
+      {
+        "text": "返回首頁",
+        "url": "/BlogForBoBo/",
+        "type": "markdown",
+        "line": 95
+      }
+    ],
+    "test-links.md": [
+      {
+        "text": "首頁",
+        "url": "/BlogForBoBo/",
+        "type": "markdown",
+        "line": 12
+      },
+      {
+        "text": "目錄頁",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 13
+      },
+      {
+        "text": "測試頁面",
+        "url": "/BlogForBoBo/test-links/",
+        "type": "markdown",
+        "line": 3
+      },
+      {
+        "text": "素材篇",
+        "url": "/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html",
+        "type": "markdown",
+        "line": 17
+      },
+      {
+        "text": "完整翻譯第一部分",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part1.html",
+        "type": "markdown",
+        "line": 18
+      },
+      {
+        "text": "返回首頁",
+        "url": "/BlogForBoBo/",
+        "type": "markdown",
+        "line": 40
+      }
+    ],
+    "SECURITY_SETUP.md": [],
+    "cron-monitor.md": [
+      {
+        "text": "GitHub 倉庫",
+        "url": "https://github.com/Nemo1999/BlogForBoBo",
+        "type": "markdown",
+        "line": 184
+      },
+      {
+        "text": "監控腳本目錄",
+        "url": "/home/nemo/.openclaw/workspace/cron_jobs/",
+        "type": "markdown",
+        "line": 185
+      },
+      {
+        "text": "完整文檔",
+        "url": "SECURITY_SETUP.md",
+        "type": "markdown",
+        "line": 186
+      },
+      {
+        "text": "技術支持",
+        "url": "mailto:byprism.ask@gmail.com",
+        "type": "markdown",
+        "line": 187
+      },
+      {
+        "text": "",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part1.html",
+        "type": "html",
+        "line": 77
+      },
+      {
+        "text": "",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part2.html",
+        "type": "html",
+        "line": 89
+      },
+      {
+        "text": "",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part3.html",
+        "type": "html",
+        "line": 101
+      },
+      {
+        "text": "",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part4.html",
+        "type": "html",
+        "line": 113
+      }
+    ],
+    "home-content.md": [
+      {
+        "text": "查看本書完整目錄",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 174
+      },
+      {
+        "text": "測試所有連結",
+        "url": "/BlogForBoBo/test-links/",
+        "type": "markdown",
+        "line": 174
+      },
+      {
+        "text": "",
+        "url": "/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html",
+        "type": "html",
+        "line": 81
+      },
+      {
+        "text": "",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part1.html",
+        "type": "html",
+        "line": 90
+      },
+      {
+        "text": "",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part2.html",
+        "type": "html",
+        "line": 99
+      },
+      {
+        "text": "",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part3.html",
+        "type": "html",
+        "line": 108
+      },
+      {
+        "text": "",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part4.html",
+        "type": "html",
+        "line": 117
+      },
+      {
+        "text": "",
+        "url": "/BlogForBoBo/cron-monitor/",
+        "type": "html",
+        "line": 144
+      },
+      {
+        "text": "",
+        "url": "mailto:byprism.ask@gmail.com",
+        "type": "html",
+        "line": 154
+      }
+    ],
+    "README.md": [
+      {
+        "text": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "type": "markdown",
+        "line": 81
+      },
+      {
+        "text": "Nemo1999",
+        "url": "https://github.com/Nemo1999",
+        "type": "markdown",
+        "line": 36
+      }
+    ],
+    "_posts/2026-03-31-bohm-chapter-1-material.md": [],
+    "_posts/2026-03-31-bohm-chapter-1-complete-part4.md": [
+      {
+        "text": "第一部分：第1-8頁",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part1.html",
+        "type": "markdown",
+        "line": 21
+      },
+      {
+        "text": "第二部分：第9-16頁",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part2.html",
+        "type": "markdown",
+        "line": 22
+      },
+      {
+        "text": "第三部分：第17-24頁",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part3.html",
+        "type": "markdown",
+        "line": 23
+      },
+      {
+        "text": "第四部分：第25-33頁",
+        "url": "#",
+        "type": "markdown",
+        "line": 24
+      },
+      {
+        "text": "返回目錄",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 25
+      },
+      {
+        "text": "上一部分：第17-24頁",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part3.html",
+        "type": "markdown",
+        "line": 270
+      },
+      {
+        "text": "返回目錄",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 25
+      },
+      {
+        "text": "查看素材篇",
+        "url": "/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html",
+        "type": "markdown",
+        "line": 272
+      }
+    ],
+    "_posts/2026-04-02-bohm-chapter-1-part2-translated.md": [
+      {
+        "text": "第一章第1-8頁翻譯",
+        "url": "/BlogForBoBo/philosophy/bohm/translation/2026/03/31/bohm-chapter-1-part1-translated.html",
+        "type": "markdown",
+        "line": 33
+      },
+      {
+        "text": "本書目錄",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 34
+      },
+      {
+        "text": "玻姆哲學專題",
+        "url": "/BlogForBoBo/categories/#philosophy",
+        "type": "markdown",
+        "line": 35
+      },
+      {
+        "text": "第一章第1-8頁翻譯",
+        "url": "/BlogForBoBo/philosophy/bohm/translation/2026/03/31/bohm-chapter-1-part1-translated.html",
+        "type": "markdown",
+        "line": 33
+      },
+      {
+        "text": "玻姆哲學專題索引",
+        "url": "/BlogForBoBo/categories/#philosophy",
+        "type": "markdown",
+        "line": 287
+      },
+      {
+        "text": "部落格首頁",
+        "url": "/BlogForBoBo/",
+        "type": "markdown",
+        "line": 288
+      }
+    ],
+    "_posts/2026-03-31-bohm-chapter-1-complete-part3.md": [
+      {
+        "text": "第一部分：第1-8頁",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part1.html",
+        "type": "markdown",
+        "line": 21
+      },
+      {
+        "text": "第二部分：第9-16頁",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part2.html",
+        "type": "markdown",
+        "line": 22
+      },
+      {
+        "text": "第三部分：第17-24頁",
+        "url": "#",
+        "type": "markdown",
+        "line": 23
+      },
+      {
+        "text": "第四部分：第25-33頁",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part4.html",
+        "type": "markdown",
+        "line": 24
+      },
+      {
+        "text": "返回目錄",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 25
+      },
+      {
+        "text": "上一部分：第9-16頁",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part2.html",
+        "type": "markdown",
+        "line": 258
+      },
+      {
+        "text": "下一部分：第25-33頁",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part4.html",
+        "type": "markdown",
+        "line": 259
+      },
+      {
+        "text": "返回目錄",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 25
+      },
+      {
+        "text": "查看素材篇",
+        "url": "/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html",
+        "type": "markdown",
+        "line": 261
+      }
+    ],
+    "_posts/2026-03-31-bohm-chapter-1-complete-part1.md": [
+      {
+        "text": "第一部分：第1-8頁",
+        "url": "#",
+        "type": "markdown",
+        "line": 21
+      },
+      {
+        "text": "第二部分：第9-16頁",
+        "url": "/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part2.html",
+        "type": "markdown",
+        "line": 22
+      },
+      {
+        "text": "第三部分：第17-24頁",
+        "url": "/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part3.html",
+        "type": "markdown",
+        "line": 23
+      },
+      {
+        "text": "第四部分：第25-33頁",
+        "url": "/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part4.html",
+        "type": "markdown",
+        "line": 24
+      },
+      {
+        "text": "返回目錄",
+        "url": "/toc/",
+        "type": "markdown",
+        "line": 25
+      },
+      {
+        "text": "下一部分：第9-16頁",
+        "url": "/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part2.html",
+        "type": "markdown",
+        "line": 221
+      },
+      {
+        "text": "返回目錄",
+        "url": "/toc/",
+        "type": "markdown",
+        "line": 25
+      },
+      {
+        "text": "查看素材篇",
+        "url": "/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html",
+        "type": "markdown",
+        "line": 223
+      }
+    ],
+    "_posts/2026-03-31-bohm-chapter-1-complete-part2.md": [
+      {
+        "text": "第一部分：第1-8頁",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part1.html",
+        "type": "markdown",
+        "line": 21
+      },
+      {
+        "text": "第二部分：第9-16頁",
+        "url": "#",
+        "type": "markdown",
+        "line": 22
+      },
+      {
+        "text": "第三部分：第17-24頁",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part3.html",
+        "type": "markdown",
+        "line": 23
+      },
+      {
+        "text": "第四部分：第25-33頁",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part4.html",
+        "type": "markdown",
+        "line": 24
+      },
+      {
+        "text": "返回目錄",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 25
+      },
+      {
+        "text": "上一部分：第1-8頁",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part1.html",
+        "type": "markdown",
+        "line": 234
+      },
+      {
+        "text": "下一部分：第17-24頁",
+        "url": "/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part3.html",
+        "type": "markdown",
+        "line": 235
+      },
+      {
+        "text": "返回目錄",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 25
+      },
+      {
+        "text": "查看素材篇",
+        "url": "/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html",
+        "type": "markdown",
+        "line": 237
+      }
+    ],
+    "_templates/DEPLOYMENT_CHECKLIST.md": [],
+    "_templates/post-template.md": [
+      {
+        "text": "其他文章",
+        "url": "/BlogForBoBo/category1/category2/YYYY/MM/DD/other-title.html",
+        "type": "markdown",
+        "line": 26
+      },
+      {
+        "text": "目錄頁",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 27
+      },
+      {
+        "text": "其他文章",
+        "url": "../other-title.html",
+        "type": "markdown",
+        "line": 26
+      },
+      {
+        "text": "上一篇",
+        "url": "/BlogForBoBo/...",
+        "type": "markdown",
+        "line": 40
+      },
+      {
+        "text": "下一篇",
+        "url": "/BlogForBoBo/...",
+        "type": "markdown",
+        "line": 41
+      },
+      {
+        "text": "返回列表",
+        "url": "/BlogForBoBo/blog/",
+        "type": "markdown",
+        "line": 42
+      },
+      {
+        "text": "首頁",
+        "url": "/BlogForBoBo/",
+        "type": "markdown",
+        "line": 45
+      },
+      {
+        "text": "目錄",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 27
+      },
+      {
+        "text": "所有文章",
+        "url": "/BlogForBoBo/blog/",
+        "type": "markdown",
+        "line": 47
+      },
+      {
+        "text": "返回文章列表",
+        "url": "/BlogForBoBo/blog/",
+        "type": "markdown",
+        "line": 67
+      }
+    ],
+    "_templates/QUICK_REFERENCE.md": [
+      {
+        "text": "文字",
+        "url": "https://完整URL",
+        "type": "markdown",
+        "line": 21
+      },
+      {
+        "text": "首頁",
+        "url": "/BlogForBoBo/",
+        "type": "markdown",
+        "line": 124
+      },
+      {
+        "text": "目錄",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 125
+      },
+      {
+        "text": "素材篇",
+        "url": "/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html",
+        "type": "markdown",
+        "line": 13
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/Nemo1999/BlogForBoBo",
+        "type": "markdown",
+        "line": 129
+      },
+      {
+        "text": "玻姆檔案",
+        "url": "https://www.bohm.org/",
+        "type": "markdown",
+        "line": 130
+      }
+    ],
+    "_templates/CATEGORY_SYSTEM.md": [],
+    "_templates/page-template.md": [
+      {
+        "text": "首頁",
+        "url": "/BlogForBoBo/",
+        "type": "markdown",
+        "line": 17
+      },
+      {
+        "text": "目錄",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 18
+      },
+      {
+        "text": "其他頁面",
+        "url": "/BlogForBoBo/other-page/",
+        "type": "markdown",
+        "line": 19
+      },
+      {
+        "text": "返回首頁",
+        "url": "/BlogForBoBo/",
+        "type": "markdown",
+        "line": 32
+      }
+    ],
+    "_templates/TEMPLATE_GUIDE.md": [
+      {
+        "text": "首頁",
+        "url": "/BlogForBoBo/",
+        "type": "markdown",
+        "line": 13
+      },
+      {
+        "text": "目錄",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 10
+      },
+      {
+        "text": "其他頁面",
+        "url": "/BlogForBoBo/other-page/",
+        "type": "markdown",
+        "line": 58
+      },
+      {
+        "text": "返回首頁",
+        "url": "/BlogForBoBo/",
+        "type": "markdown",
+        "line": 71
+      },
+      {
+        "text": "其他文章",
+        "url": "/BlogForBoBo/category1/category2/YYYY/MM/DD/other-title.html",
+        "type": "markdown",
+        "line": 102
+      },
+      {
+        "text": "目錄頁",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 103
+      },
+      {
+        "text": "其他文章",
+        "url": "../other-title.html",
+        "type": "markdown",
+        "line": 102
+      },
+      {
+        "text": "上一篇",
+        "url": "/BlogForBoBo/...",
+        "type": "markdown",
+        "line": 116
+      },
+      {
+        "text": "下一篇",
+        "url": "/BlogForBoBo/...",
+        "type": "markdown",
+        "line": 117
+      },
+      {
+        "text": "返回列表",
+        "url": "/BlogForBoBo/blog/",
+        "type": "markdown",
+        "line": 118
+      },
+      {
+        "text": "首頁",
+        "url": "/BlogForBoBo/",
+        "type": "markdown",
+        "line": 13
+      },
+      {
+        "text": "目錄",
+        "url": "/BlogForBoBo/toc/",
+        "type": "markdown",
+        "line": 10
+      },
+      {
+        "text": "所有文章",
+        "url": "/BlogForBoBo/blog/",
+        "type": "markdown",
+        "line": 123
+      },
+      {
+        "text": "返回文章列表",
+        "url": "/BlogForBoBo/blog/",
+        "type": "markdown",
+        "line": 143
+      }
+    ]
+  },
+  "last_updated": "2026-04-02T08:59:48.725310"
+}

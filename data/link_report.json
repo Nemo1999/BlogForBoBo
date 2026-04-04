@@ -1,0 +1,730 @@
+{
+  "generated_at": "2026-04-02T09:00:17.327696",
+  "total_files": 18,
+  "total_links": 108,
+  "broken_links": [
+    {
+      "file": "toc.md",
+      "line": 25,
+      "text": "第一部分：第1-8頁",
+      "url": "/BlogForBoBo/philosophy/bohm/translation/chapter1/part1/2026/03/31/bohm-chapter-1-part1-translated.html",
+      "result": {
+        "url": "/BlogForBoBo/philosophy/bohm/translation/chapter1/part1/2026/03/31/bohm-chapter-1-part1-translated.html",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/philosophy/bohm/translation/chapter1/part1/2026/03/31/bohm-chapter-1-part1-translated.html",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:17.943014"
+      }
+    },
+    {
+      "file": "toc.md",
+      "line": 26,
+      "text": "第二部分：第9-16頁",
+      "url": "/BlogForBoBo/philosophy/bohm/translation/chapter1/part2/2026/04/02/bohm-chapter-1-part2-translated.html",
+      "result": {
+        "url": "/BlogForBoBo/philosophy/bohm/translation/chapter1/part2/2026/04/02/bohm-chapter-1-part2-translated.html",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/philosophy/bohm/translation/chapter1/part2/2026/04/02/bohm-chapter-1-part2-translated.html",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:18.163270"
+      }
+    },
+    {
+      "file": "toc.md",
+      "line": 78,
+      "text": "第一章完整翻譯第一部分",
+      "url": "/BlogForBoBo/philosophy/bohm/complete/2026/03/31/bohm-chapter-1-complete-part1.html",
+      "result": {
+        "url": "/BlogForBoBo/philosophy/bohm/complete/2026/03/31/bohm-chapter-1-complete-part1.html",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/philosophy/bohm/complete/2026/03/31/bohm-chapter-1-complete-part1.html",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:18.547590"
+      }
+    },
+    {
+      "file": "toc.md",
+      "line": 93,
+      "text": "第一章單篇翻譯第一部分",
+      "url": "/BlogForBoBo/philosophy/bohm/translation/chapter1/part1/2026/03/31/bohm-chapter-1-part1-translated.html",
+      "result": {
+        "url": "/BlogForBoBo/philosophy/bohm/translation/chapter1/part1/2026/03/31/bohm-chapter-1-part1-translated.html",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/philosophy/bohm/translation/chapter1/part1/2026/03/31/bohm-chapter-1-part1-translated.html",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:18.748130"
+      }
+    },
+    {
+      "file": "toc.md",
+      "line": 79,
+      "text": "第一章單篇翻譯第二部分",
+      "url": "/BlogForBoBo/philosophy/bohm/translation/chapter1/part2/2026/04/02/bohm-chapter-1-part2-translated.html",
+      "result": {
+        "url": "/BlogForBoBo/philosophy/bohm/translation/chapter1/part2/2026/04/02/bohm-chapter-1-part2-translated.html",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/philosophy/bohm/translation/chapter1/part2/2026/04/02/bohm-chapter-1-part2-translated.html",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:18.962049"
+      }
+    },
+    {
+      "file": "test-links.md",
+      "line": 13,
+      "text": "目錄頁",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:19.516412"
+      }
+    },
+    {
+      "file": "test-links.md",
+      "line": 3,
+      "text": "測試頁面",
+      "url": "/BlogForBoBo/test-links/",
+      "result": {
+        "url": "/BlogForBoBo/test-links/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/test-links/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:19.716764"
+      }
+    },
+    {
+      "file": "cron-monitor.md",
+      "line": 185,
+      "text": "監控腳本目錄",
+      "url": "/home/nemo/.openclaw/workspace/cron_jobs/",
+      "result": {
+        "url": "/home/nemo/.openclaw/workspace/cron_jobs/",
+        "full_url": "https://nemo1999.github.io/home/nemo/.openclaw/workspace/cron_jobs/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:20.687155"
+      }
+    },
+    {
+      "file": "home-content.md",
+      "line": 174,
+      "text": "查看本書完整目錄",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:21.700322"
+      }
+    },
+    {
+      "file": "home-content.md",
+      "line": 174,
+      "text": "測試所有連結",
+      "url": "/BlogForBoBo/test-links/",
+      "result": {
+        "url": "/BlogForBoBo/test-links/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/test-links/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:21.928184"
+      }
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part4.md",
+      "line": 25,
+      "text": "返回目錄",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:24.235335"
+      }
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part4.md",
+      "line": 25,
+      "text": "返回目錄",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:24.588936"
+      }
+    },
+    {
+      "file": "_posts/2026-04-02-bohm-chapter-1-part2-translated.md",
+      "line": 33,
+      "text": "第一章第1-8頁翻譯",
+      "url": "/BlogForBoBo/philosophy/bohm/translation/2026/03/31/bohm-chapter-1-part1-translated.html",
+      "result": {
+        "url": "/BlogForBoBo/philosophy/bohm/translation/2026/03/31/bohm-chapter-1-part1-translated.html",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/philosophy/bohm/translation/2026/03/31/bohm-chapter-1-part1-translated.html",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:25.024178"
+      }
+    },
+    {
+      "file": "_posts/2026-04-02-bohm-chapter-1-part2-translated.md",
+      "line": 34,
+      "text": "本書目錄",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:25.256676"
+      }
+    },
+    {
+      "file": "_posts/2026-04-02-bohm-chapter-1-part2-translated.md",
+      "line": 35,
+      "text": "玻姆哲學專題",
+      "url": "/BlogForBoBo/categories/#philosophy",
+      "result": {
+        "url": "/BlogForBoBo/categories/#philosophy",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/categories/#philosophy",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:25.489642"
+      }
+    },
+    {
+      "file": "_posts/2026-04-02-bohm-chapter-1-part2-translated.md",
+      "line": 33,
+      "text": "第一章第1-8頁翻譯",
+      "url": "/BlogForBoBo/philosophy/bohm/translation/2026/03/31/bohm-chapter-1-part1-translated.html",
+      "result": {
+        "url": "/BlogForBoBo/philosophy/bohm/translation/2026/03/31/bohm-chapter-1-part1-translated.html",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/philosophy/bohm/translation/2026/03/31/bohm-chapter-1-part1-translated.html",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:25.699961"
+      }
+    },
+    {
+      "file": "_posts/2026-04-02-bohm-chapter-1-part2-translated.md",
+      "line": 287,
+      "text": "玻姆哲學專題索引",
+      "url": "/BlogForBoBo/categories/#philosophy",
+      "result": {
+        "url": "/BlogForBoBo/categories/#philosophy",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/categories/#philosophy",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:25.903246"
+      }
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part3.md",
+      "line": 25,
+      "text": "返回目錄",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:26.921902"
+      }
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part3.md",
+      "line": 25,
+      "text": "返回目錄",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:27.492424"
+      }
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part1.md",
+      "line": 22,
+      "text": "第二部分：第9-16頁",
+      "url": "/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part2.html",
+      "result": {
+        "url": "/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part2.html",
+        "full_url": "https://nemo1999.github.io/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part2.html",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:27.861996"
+      }
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part1.md",
+      "line": 23,
+      "text": "第三部分：第17-24頁",
+      "url": "/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part3.html",
+      "result": {
+        "url": "/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part3.html",
+        "full_url": "https://nemo1999.github.io/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part3.html",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:28.072292"
+      }
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part1.md",
+      "line": 24,
+      "text": "第四部分：第25-33頁",
+      "url": "/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part4.html",
+      "result": {
+        "url": "/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part4.html",
+        "full_url": "https://nemo1999.github.io/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part4.html",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:28.267711"
+      }
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part1.md",
+      "line": 25,
+      "text": "返回目錄",
+      "url": "/toc/",
+      "result": {
+        "url": "/toc/",
+        "full_url": "https://nemo1999.github.io/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:28.490677"
+      }
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part1.md",
+      "line": 221,
+      "text": "下一部分：第9-16頁",
+      "url": "/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part2.html",
+      "result": {
+        "url": "/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part2.html",
+        "full_url": "https://nemo1999.github.io/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part2.html",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:28.680354"
+      }
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part1.md",
+      "line": 25,
+      "text": "返回目錄",
+      "url": "/toc/",
+      "result": {
+        "url": "/toc/",
+        "full_url": "https://nemo1999.github.io/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:28.898583"
+      }
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part1.md",
+      "line": 223,
+      "text": "查看素材篇",
+      "url": "/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html",
+      "result": {
+        "url": "/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html",
+        "full_url": "https://nemo1999.github.io/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:29.074012"
+      }
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part2.md",
+      "line": 25,
+      "text": "返回目錄",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:29.876550"
+      }
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part2.md",
+      "line": 25,
+      "text": "返回目錄",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:30.433917"
+      }
+    },
+    {
+      "file": "_templates/post-template.md",
+      "line": 26,
+      "text": "其他文章",
+      "url": "/BlogForBoBo/category1/category2/YYYY/MM/DD/other-title.html",
+      "result": {
+        "url": "/BlogForBoBo/category1/category2/YYYY/MM/DD/other-title.html",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/category1/category2/YYYY/MM/DD/other-title.html",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:30.863473"
+      }
+    },
+    {
+      "file": "_templates/post-template.md",
+      "line": 27,
+      "text": "目錄頁",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:31.069465"
+      }
+    },
+    {
+      "file": "_templates/post-template.md",
+      "line": 40,
+      "text": "上一篇",
+      "url": "/BlogForBoBo/...",
+      "result": {
+        "url": "/BlogForBoBo/...",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/...",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:31.297224"
+      }
+    },
+    {
+      "file": "_templates/post-template.md",
+      "line": 41,
+      "text": "下一篇",
+      "url": "/BlogForBoBo/...",
+      "result": {
+        "url": "/BlogForBoBo/...",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/...",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:31.478715"
+      }
+    },
+    {
+      "file": "_templates/post-template.md",
+      "line": 42,
+      "text": "返回列表",
+      "url": "/BlogForBoBo/blog/",
+      "result": {
+        "url": "/BlogForBoBo/blog/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/blog/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:31.698494"
+      }
+    },
+    {
+      "file": "_templates/post-template.md",
+      "line": 27,
+      "text": "目錄",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:32.065556"
+      }
+    },
+    {
+      "file": "_templates/post-template.md",
+      "line": 47,
+      "text": "所有文章",
+      "url": "/BlogForBoBo/blog/",
+      "result": {
+        "url": "/BlogForBoBo/blog/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/blog/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:32.276609"
+      }
+    },
+    {
+      "file": "_templates/post-template.md",
+      "line": 67,
+      "text": "返回文章列表",
+      "url": "/BlogForBoBo/blog/",
+      "result": {
+        "url": "/BlogForBoBo/blog/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/blog/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:32.463750"
+      }
+    },
+    {
+      "file": "_templates/QUICK_REFERENCE.md",
+      "line": 21,
+      "text": "文字",
+      "url": "https://完整URL",
+      "result": {
+        "url": "https://完整URL",
+        "full_url": "https://完整URL",
+        "status": "error",
+        "accessible": false,
+        "error": "HTTPSConnectionPool(host='xn--url-1d0fh15b', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7637cbed2e90>: Failed to resolve 'xn--url-1d0fh15b' ([Errno -5] No address associated with hostname)\"))",
+        "checked_at": "2026-04-02T09:00:32.485809"
+      }
+    },
+    {
+      "file": "_templates/QUICK_REFERENCE.md",
+      "line": 125,
+      "text": "目錄",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:32.842182"
+      }
+    },
+    {
+      "file": "_templates/QUICK_REFERENCE.md",
+      "line": 130,
+      "text": "玻姆檔案",
+      "url": "https://www.bohm.org/",
+      "result": {
+        "url": "https://www.bohm.org/",
+        "full_url": "https://www.bohm.org/",
+        "status": "error",
+        "accessible": false,
+        "error": "HTTPSConnectionPool(host='www.bohm.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.bohm.org'. (_ssl.c:1029)\")))",
+        "checked_at": "2026-04-02T09:00:34.114364"
+      }
+    },
+    {
+      "file": "_templates/page-template.md",
+      "line": 18,
+      "text": "目錄",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:34.500557"
+      }
+    },
+    {
+      "file": "_templates/page-template.md",
+      "line": 19,
+      "text": "其他頁面",
+      "url": "/BlogForBoBo/other-page/",
+      "result": {
+        "url": "/BlogForBoBo/other-page/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/other-page/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:34.708821"
+      }
+    },
+    {
+      "file": "_templates/TEMPLATE_GUIDE.md",
+      "line": 10,
+      "text": "目錄",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:35.349809"
+      }
+    },
+    {
+      "file": "_templates/TEMPLATE_GUIDE.md",
+      "line": 58,
+      "text": "其他頁面",
+      "url": "/BlogForBoBo/other-page/",
+      "result": {
+        "url": "/BlogForBoBo/other-page/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/other-page/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:35.534039"
+      }
+    },
+    {
+      "file": "_templates/TEMPLATE_GUIDE.md",
+      "line": 102,
+      "text": "其他文章",
+      "url": "/BlogForBoBo/category1/category2/YYYY/MM/DD/other-title.html",
+      "result": {
+        "url": "/BlogForBoBo/category1/category2/YYYY/MM/DD/other-title.html",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/category1/category2/YYYY/MM/DD/other-title.html",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:35.889407"
+      }
+    },
+    {
+      "file": "_templates/TEMPLATE_GUIDE.md",
+      "line": 103,
+      "text": "目錄頁",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:36.086881"
+      }
+    },
+    {
+      "file": "_templates/TEMPLATE_GUIDE.md",
+      "line": 116,
+      "text": "上一篇",
+      "url": "/BlogForBoBo/...",
+      "result": {
+        "url": "/BlogForBoBo/...",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/...",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:36.252626"
+      }
+    },
+    {
+      "file": "_templates/TEMPLATE_GUIDE.md",
+      "line": 117,
+      "text": "下一篇",
+      "url": "/BlogForBoBo/...",
+      "result": {
+        "url": "/BlogForBoBo/...",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/...",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:36.482778"
+      }
+    },
+    {
+      "file": "_templates/TEMPLATE_GUIDE.md",
+      "line": 118,
+      "text": "返回列表",
+      "url": "/BlogForBoBo/blog/",
+      "result": {
+        "url": "/BlogForBoBo/blog/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/blog/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:36.680645"
+      }
+    },
+    {
+      "file": "_templates/TEMPLATE_GUIDE.md",
+      "line": 10,
+      "text": "目錄",
+      "url": "/BlogForBoBo/toc/",
+      "result": {
+        "url": "/BlogForBoBo/toc/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/toc/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:37.042920"
+      }
+    },
+    {
+      "file": "_templates/TEMPLATE_GUIDE.md",
+      "line": 123,
+      "text": "所有文章",
+      "url": "/BlogForBoBo/blog/",
+      "result": {
+        "url": "/BlogForBoBo/blog/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/blog/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:37.244761"
+      }
+    },
+    {
+      "file": "_templates/TEMPLATE_GUIDE.md",
+      "line": 143,
+      "text": "返回文章列表",
+      "url": "/BlogForBoBo/blog/",
+      "result": {
+        "url": "/BlogForBoBo/blog/",
+        "full_url": "https://nemo1999.github.io/BlogForBoBo/blog/",
+        "status": 404,
+        "accessible": false,
+        "checked_at": "2026-04-02T09:00:37.420629"
+      }
+    }
+  ],
+  "files_with_links": [
+    {
+      "file": "toc.md",
+      "link_count": 9
+    },
+    {
+      "file": "test-links.md",
+      "link_count": 6
+    },
+    {
+      "file": "cron-monitor.md",
+      "link_count": 8
+    },
+    {
+      "file": "home-content.md",
+      "link_count": 9
+    },
+    {
+      "file": "README.md",
+      "link_count": 2
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part4.md",
+      "link_count": 8
+    },
+    {
+      "file": "_posts/2026-04-02-bohm-chapter-1-part2-translated.md",
+      "link_count": 6
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part3.md",
+      "link_count": 9
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part1.md",
+      "link_count": 8
+    },
+    {
+      "file": "_posts/2026-03-31-bohm-chapter-1-complete-part2.md",
+      "link_count": 9
+    },
+    {
+      "file": "_templates/post-template.md",
+      "link_count": 10
+    },
+    {
+      "file": "_templates/QUICK_REFERENCE.md",
+      "link_count": 6
+    },
+    {
+      "file": "_templates/page-template.md",
+      "link_count": 4
+    },
+    {
+      "file": "_templates/TEMPLATE_GUIDE.md",
+      "link_count": 14
+    }
+  ]
+}
