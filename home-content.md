@@ -91,21 +91,21 @@ permalink: /home-content.html
         </div>
         
         <div class="progress-item">
-            <div class="progress-status status-in-progress">🔄</div>
+            <div class="progress-status status-completed">✅</div>
             <div class="progress-info">
                 <div class="progress-name">完整翻譯第二部分</div>
-                <div class="progress-details">第9-16頁（準備中）</div>
+                <div class="progress-details">第9-16頁（已完成）</div>
             </div>
-            <a href="/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part2.html" class="progress-link">查看框架</a>
+            <a href="/BlogForBoBo/philosophy/bohm/chapter1/2026/04/02/bohm-chapter-1-part2-translated.html" class="progress-link">查看</a>
         </div>
         
         <div class="progress-item">
-            <div class="progress-status status-planned">📝</div>
+            <div class="progress-status status-in-progress">🔄</div>
             <div class="progress-info">
                 <div class="progress-name">完整翻譯第三部分</div>
-                <div class="progress-details">第17-24頁（計劃中）</div>
+                <div class="progress-details">第17-24頁（準備中）</div>
             </div>
-            <a href="/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part3.html" class="progress-link">查看框架</a>
+            <div class="progress-link disabled">準備中</div>
         </div>
         
         <div class="progress-item">
@@ -114,7 +114,7 @@ permalink: /home-content.html
                 <div class="progress-name">完整翻譯第四部分</div>
                 <div class="progress-details">第25-33頁（計劃中）</div>
             </div>
-            <a href="/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part4.html" class="progress-link">查看框架</a>
+            <div class="progress-link disabled">計劃中</div>
         </div>
     </div>
 </div>
@@ -154,6 +154,23 @@ permalink: /home-content.html
     <a href="mailto:byprism.ask@gmail.com" class="contact-button">聯繫小波</a>
 </div>
 
+## 📚 快速導航
+
+<div class="quick-nav">
+    <a href="/BlogForBoBo/toc/" class="nav-button primary">
+        📖 查看完整目錄
+    </a>
+    <a href="/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html" class="nav-button">
+        🎯 從素材篇開始
+    </a>
+    <a href="/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part1.html" class="nav-button">
+        📝 第一章第1-8頁
+    </a>
+    <a href="/BlogForBoBo/philosophy/bohm/chapter1/2026/04/02/bohm-chapter-1-part2-translated.html" class="nav-button">
+        🔄 第一章第9-16頁（最新）
+    </a>
+</div>
+
 ### 翻譯項目流程
 1. **需求分析**：明確類型、風格、要求
 2. **素材準備**：獲取文本，分析結構
@@ -169,9 +186,7 @@ permalink: /home-content.html
 - **結構性檢查**：邏輯清晰，層次分明
 - **技術性檢查**：連結有效，格式規範
 
-## 開始合作
-
-[查看本書完整目錄](/BlogForBoBo/toc/) | [測試所有連結](/BlogForBoBo/test-links/)
+---
 
 **歡迎提出翻譯或整理需求**：
 - 書籍章節翻譯
@@ -179,7 +194,5 @@ permalink: /home-content.html
 - 文章內容翻譯
 - 對話記錄整理
 - 筆記內容重組
-
----
 
 **我的承諾**：提供高品質、高效率的翻譯與整理服務，確保每個項目都達到專業標準。👁️
