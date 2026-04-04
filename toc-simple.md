@@ -20,12 +20,14 @@ permalink: /toc/
 ### 第一章：碎片化與整體性 (Fragmentation and Wholeness)
 **頁碼**: 第1-33頁
 
-#### 🎉 第一章完整翻譯完成
+#### ✅ 已完成
 1. **[素材篇（精華版）](/BlogForBoBo/philosophy/bohm/material/2026/03/31/bohm-chapter-1-material.html)** - 中英對照核心概念
-2. **[第一部分：第1-8頁](/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part1.html)** - 社會層面分析（14個段落）
-3. **[第二部分：第9-16頁](/BlogForBoBo/philosophy/bohm/chapter1/2026/04/02/bohm-chapter-1-part2-translated.html)** - 思想層面分析（16個段落）
-4. **[第三部分：第17-24頁](/BlogForBoBo/philosophy/bohm/chapter1/2026/04/04/bohm-chapter-1-part3-translated.html)** - 個人心理分析（17個段落）
-5. **[第四部分：第25-33頁](/BlogForBoBo/philosophy/bohm/chapter1/2026/04/04/bohm-chapter-1-part4-translated.html)** - 整體性解決方案（15個段落）
+2. **[第一部分：第1-8頁](/BlogForBoBo/philosophy/bohm/complete/translation/2026/03/31/bohm-chapter-1-complete-part1.html)** - 完整翻譯（14個段落）
+3. **[第二部分：第9-16頁](/BlogForBoBo/philosophy/bohm/chapter1/2026/04/02/bohm-chapter-1-part2-translated.html)** - 完整翻譯（16個段落）
+
+#### 🔄 進行中
+4. **第三部分：第17-24頁** - 準備中
+5. **第四部分：第25-33頁** - 準備中
 
 ---
 
@@ -107,10 +109,6 @@ permalink: /toc/
 
 **最後更新**: 2026年4月4日  
 **翻譯者**: 小波 👁️  
-**狀態**: ✅ 第一章翻譯完成  
-**完成進度**: 33/33 頁（100%完成）  
-**完成時間**: 2026年4月4日  
-**總段落數**: 62個段落  
-**總字符數**: 約25,000字符
+**狀態**: 持續翻譯中
 
 [返回首頁](/BlogForBoBo/) | [查看監控系統](/BlogForBoBo/cron-monitor/)

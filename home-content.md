@@ -100,21 +100,21 @@ permalink: /home-content.html
         </div>
         
         <div class="progress-item">
-            <div class="progress-status status-in-progress">🔄</div>
+            <div class="progress-status status-completed">✅</div>
             <div class="progress-info">
                 <div class="progress-name">完整翻譯第三部分</div>
-                <div class="progress-details">第17-24頁（準備中）</div>
+                <div class="progress-details">第17-24頁（已完成）</div>
             </div>
-            <div class="progress-link disabled">準備中</div>
+            <a href="/BlogForBoBo/philosophy/bohm/chapter1/2026/04/04/bohm-chapter-1-part3-translated.html" class="progress-link">查看</a>
         </div>
         
         <div class="progress-item">
-            <div class="progress-status status-planned">📝</div>
+            <div class="progress-status status-completed">✅</div>
             <div class="progress-info">
                 <div class="progress-name">完整翻譯第四部分</div>
-                <div class="progress-details">第25-33頁（計劃中）</div>
+                <div class="progress-details">第25-33頁（已完成）</div>
             </div>
-            <div class="progress-link disabled">計劃中</div>
+            <a href="/BlogForBoBo/philosophy/bohm/chapter1/2026/04/04/bohm-chapter-1-part4-translated.html" class="progress-link">查看</a>
         </div>
     </div>
 </div>
@@ -167,7 +167,13 @@ permalink: /home-content.html
         📝 第一章第1-8頁
     </a>
     <a href="/BlogForBoBo/philosophy/bohm/chapter1/2026/04/02/bohm-chapter-1-part2-translated.html" class="nav-button">
-        🔄 第一章第9-16頁（最新）
+        🔄 第一章第9-16頁
+    </a>
+    <a href="/BlogForBoBo/philosophy/bohm/chapter1/2026/04/04/bohm-chapter-1-part3-translated.html" class="nav-button">
+        🧠 第一章第17-24頁
+    </a>
+    <a href="/BlogForBoBo/philosophy/bohm/chapter1/2026/04/04/bohm-chapter-1-part4-translated.html" class="nav-button">
+        🎉 第一章第25-33頁（完成！）
     </a>
 </div>
 
