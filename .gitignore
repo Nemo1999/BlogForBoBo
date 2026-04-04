@@ -42,3 +42,6 @@ Thumbs.db
 # Ignore environment files
 .env*
 !.env.example
+
+# Ignore Gemfile.lock
+Gemfile.lock
