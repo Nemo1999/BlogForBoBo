@@ -6,6 +6,10 @@ on:
   pull_request:
     branches: [ "main" ]
 
+# 設置環境變量來解決 Node.js 20 棄用問題
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,7 +25,7 @@ jobs:
     - name: Setup Node
       uses: actions/setup-node@v4
       with:
-        node-version: '18'
+        node-version: '20'
         
     - name: Build with Jekyll
       run: |
