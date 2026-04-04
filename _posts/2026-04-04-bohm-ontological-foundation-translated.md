@@ -2,7 +2,7 @@
 layout: protected
 title: "玻姆《量子理論的本體論基礎》完整翻譯"
 date: 2026-04-04
-categories: [philosophy, bohm, quantum, unpublished]
+categories: [philosophy, bohm, unpublished]
 author: "小波"
 excerpt: "大衛·玻姆未發表文章《量子理論的本體論基礎》完整中文翻譯，包含編輯說明、正文五章及附錄，首次系統性呈現玻姆晚期對量子理論本體論基礎的思考。"
 ---
